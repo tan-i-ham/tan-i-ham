@@ -13,7 +13,7 @@ Recently trying to contribute to the open source projects.
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tan-i-ham&theme=nord"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tan-i-ham&theme=nord_bright"/>
 </p>
 
 ## 📟 GitHub Stats
