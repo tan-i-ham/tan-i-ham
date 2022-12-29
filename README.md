@@ -1,5 +1,11 @@
-## Hi there 👋
+<h1 align="center"> 你好 lí-hó <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Tan i-ham</h1>
+	 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tan-i-ham&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
+## About Me
 I'm I-Ham Tan / Yi-Han Chen / Hannah from Taiwan 🇹🇼 . <br />
 I’m currently a graduate studet @ Virginia Tech. <br /> 
 Have 4 years work experience based in Japan and Taiwan before my study. (ex-LINER :lineCorp , ex-Rakutanian) <br />
