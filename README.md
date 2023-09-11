@@ -8,7 +8,7 @@
 ## About Me
 I'm I-Ham Tan / Yi-Han Chen / Hannah from Taiwan 🇹🇼 . <br />
 I’m currently a graduate studet @ Virginia Tech. <br /> 
-Have 4 years work experience based in Japan and Taiwan before my study. (ex-LINER :lineCorp , ex-Rakutanian) <br />
+Have 4 years work experience based in Japan and Taiwan before my study. (ex-LINER , ex-Rakutanian) <br />
 Recently trying to contribute to the open source projects. <br />
 
 - 👯 I’m looking to collaborate on Kubernetes, Kafka... any projects.
