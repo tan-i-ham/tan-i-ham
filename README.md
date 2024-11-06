@@ -17,6 +17,7 @@ Recently trying to contribute to the open source projects. <br />
 - 😄 Pronouns: She/Her
 
 
+
 ## 💳 Github Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tan-i-ham&theme=nord_bright"/>
@@ -27,3 +28,9 @@ Recently trying to contribute to the open source projects. <br />
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=tan-i-ham&show_icons=true&theme=nord" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tan-i-ham&theme=nord" />
 </p>
+
+## GitRoll
+
+<a href="https://gitroll.io/profile/u0pT2cZDmLGQMYR3ULQl5itNaM1B3" target="_blank">
+    <img width="50%" src="https://gitroll.io/api/badges/profiles/v1/u0pT2cZDmLGQMYR3ULQl5itNaM1B3" alt="GitRoll Profile Badge"/>
+</a>
