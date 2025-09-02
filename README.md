@@ -7,15 +7,14 @@
 
 ## About Me
 I'm I-Ham Tan / Yi-Han Chen / Hannah from Taiwan 🇹🇼 . <br />
-I’m currently a graduate studet @ Virginia Tech. <br /> 
-Have 4 years work experience based in Japan and Taiwan before my study. (ex-LINER , ex-Rakutanian) <br />
-Recently trying to contribute to the open source projects. <br />
 
-- 👯 I’m looking to collaborate on Kubernetes, Kafka... any projects.
+I'm a software engineer based in San Francisco with 4 years of work experience in Japan and Taiwan before pursuing my studies in the U.S. (ex-LINE, ex-Rakuten)  <br />
+I love coding and building interesting applications, and I'm passionate about contributing to open source projects. Most importantly, I'm dedicated to building projects that can help make Taiwan safer and a better place.  <br />
+
+- 👯 I’m looking to collaborate on [g0v](https://github.com/g0v) projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yihanchen-hannah/)
 - My Blog: https://tan-i-ham.github.io/
 - 😄 Pronouns: She/Her
-
 
 
 ## 💳 Github Profile Summary Card
